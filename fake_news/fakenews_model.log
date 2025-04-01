@@ -1,0 +1,990 @@
+2025-03-11 17:04:11,939 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 17:04:11,939 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 17:04:11,939 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 17:04:12,840 - FakeNewsModel - ERROR - Error al cargar datos: [Errno 2] No such file or directory: 'datasets\\fakenews\\News.csv'
+2025-03-11 17:04:58,914 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 17:04:58,915 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 17:04:58,915 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 17:05:00,323 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 17:05:00,325 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 17:05:00,400 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 17:05:00,401 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 17:05:01,050 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 17:05:01,099 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 17:05:03,333 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 17:05:03,333 - FakeNewsModel - INFO - Limpiando data ...
+2025-03-11 17:06:37,246 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 17:06:37,246 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 17:06:37,246 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 17:06:38,734 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 17:06:38,736 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 17:06:38,798 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 17:06:38,798 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 17:06:39,165 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 17:06:39,178 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 17:06:41,368 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 17:06:41,369 - FakeNewsModel - INFO - Limpiando data ...
+2025-03-11 18:09:54,354 - FakeNewsModel - INFO - Limpieza de datos completada.
+2025-03-11 18:09:54,354 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-11 18:38:09,132 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 18:38:09,133 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 18:38:09,134 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 18:38:10,742 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 18:38:10,744 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 18:38:10,817 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 18:38:10,818 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 18:38:11,431 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 18:38:11,468 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 18:38:14,056 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 18:38:14,059 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-11 18:38:16,867 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-11 18:38:17,006 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26938,) 
+Conjunto de validación: (8980,)
+Conjunto de prueba: (8980,)
+2025-03-11 18:38:17,008 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-11 18:39:36,050 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 18:39:36,051 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 18:39:36,053 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 18:39:38,058 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 18:39:38,061 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 18:39:38,143 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 18:39:38,143 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 18:39:38,447 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 18:39:38,485 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 18:39:42,396 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 18:39:42,398 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-11 18:39:45,131 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-11 18:39:45,268 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26938,) 
+Conjunto de validación: (8980,)
+Conjunto de prueba: (8980,)
+2025-03-11 18:39:45,270 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-11 18:45:25,561 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 18:45:25,563 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 18:45:25,564 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 18:45:27,294 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 18:45:27,296 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 18:46:18,893 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 18:46:18,894 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 18:46:18,896 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 18:46:20,382 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 18:46:20,384 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 18:46:20,463 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 18:46:20,464 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 18:46:20,732 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 18:46:20,763 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 18:46:24,503 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 18:46:24,505 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-11 18:46:26,951 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-11 18:46:27,072 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26938,) 
+Conjunto de validación: (8980,)
+Conjunto de prueba: (8980,)
+2025-03-11 18:46:27,075 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-11 18:49:51,513 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 18:49:51,514 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 18:49:51,515 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 18:49:52,971 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 18:49:52,973 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 18:55:53,516 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 18:55:53,517 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 18:55:53,517 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 18:55:55,036 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 18:55:55,039 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 18:59:27,553 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 18:59:27,554 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 18:59:27,554 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 18:59:29,013 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 18:59:29,015 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 19:00:40,092 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 19:00:40,095 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 19:00:40,095 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 19:00:41,735 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 19:00:41,737 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 19:08:50,097 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 19:08:50,097 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 19:08:50,098 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 19:08:51,576 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 19:08:51,578 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 19:08:51,696 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 19:08:51,696 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 19:08:52,020 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 19:08:52,031 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 19:08:54,157 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 19:08:54,158 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-11 19:08:57,384 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-11 19:08:57,498 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-11 19:08:57,501 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-11 19:09:06,945 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-11 19:09:48,336 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 19:09:48,337 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 19:09:48,337 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 19:09:49,814 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 19:09:49,816 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 19:09:49,935 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 19:09:49,935 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 19:09:50,278 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 19:09:50,289 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 19:09:52,425 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 19:09:52,426 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-11 19:09:55,075 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-11 19:09:55,153 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-11 19:09:55,155 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-11 19:10:04,403 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-11 19:10:04,405 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-11 19:10:04,406 - FakeNewsModel - INFO - Entrenando modelo: passive_aggressive
+2025-03-11 19:10:05,484 - FakeNewsModel - INFO - Modelo passive_aggressive: Accuracy=0.9925, F1=0.9923
+2025-03-11 19:10:05,484 - FakeNewsModel - INFO - Entrenando modelo: linear_scv
+2025-03-11 19:10:09,232 - FakeNewsModel - INFO - Modelo linear_scv: Accuracy=0.9932, F1=0.9930
+2025-03-11 19:10:09,232 - FakeNewsModel - INFO - Entrenando modelo: logistic
+2025-03-11 19:10:10,645 - FakeNewsModel - INFO - Modelo logistic: Accuracy=0.9864, F1=0.9860
+2025-03-11 19:10:10,645 - FakeNewsModel - INFO - Entrenando modelo: Multinomial_NB
+2025-03-11 19:10:10,975 - FakeNewsModel - INFO - Modelo Multinomial_NB: Accuracy=0.9309, F1=0.9281
+2025-03-11 19:10:10,975 - FakeNewsModel - INFO - Entrenando modelo: random_forest
+2025-03-11 20:37:52,976 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 20:37:52,977 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 20:37:52,977 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 20:37:54,641 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 20:37:54,643 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 20:37:54,794 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 20:37:54,794 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 20:37:55,471 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 20:37:55,507 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 20:37:58,334 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 20:37:58,338 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-11 20:38:02,030 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-11 20:38:02,174 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-11 20:38:02,177 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-11 20:38:13,467 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-11 20:38:13,477 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-11 20:38:13,477 - FakeNewsModel - INFO - Entrenando modelo: passive_aggressive
+2025-03-11 20:38:14,594 - FakeNewsModel - INFO - Modelo passive_aggressive: Accuracy=0.9925, F1=0.9923
+2025-03-11 20:38:14,595 - FakeNewsModel - INFO - Entrenando modelo: linear_scv
+2025-03-11 20:38:18,587 - FakeNewsModel - INFO - Modelo linear_scv: Accuracy=0.9932, F1=0.9930
+2025-03-11 20:38:18,587 - FakeNewsModel - INFO - Entrenando modelo: logistic
+2025-03-11 20:38:20,006 - FakeNewsModel - INFO - Modelo logistic: Accuracy=0.9864, F1=0.9860
+2025-03-11 20:38:20,006 - FakeNewsModel - INFO - Entrenando modelo: Multinomial_NB
+2025-03-11 20:38:20,381 - FakeNewsModel - INFO - Modelo Multinomial_NB: Accuracy=0.9309, F1=0.9281
+2025-03-11 20:38:20,381 - FakeNewsModel - INFO - Entrenando modelo: gradient_boosting
+2025-03-11 20:58:59,388 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 20:58:59,389 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 20:58:59,389 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 20:59:00,813 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 20:59:00,815 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 20:59:00,927 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 20:59:00,927 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 20:59:01,312 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 20:59:01,325 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 20:59:03,382 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 20:59:03,382 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-11 20:59:05,994 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-11 20:59:06,078 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-11 20:59:06,080 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-11 20:59:15,409 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-11 20:59:15,412 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-11 20:59:15,412 - FakeNewsModel - INFO - Entrenando modelo: passive_aggressive
+2025-03-11 20:59:16,412 - FakeNewsModel - INFO - Modelo passive_aggressive: Accuracy=0.9925, F1=0.9923
+2025-03-11 20:59:16,412 - FakeNewsModel - INFO - Entrenando modelo: linear_scv
+2025-03-11 20:59:20,084 - FakeNewsModel - INFO - Modelo linear_scv: Accuracy=0.9932, F1=0.9930
+2025-03-11 20:59:20,084 - FakeNewsModel - INFO - Entrenando modelo: logistic
+2025-03-11 20:59:21,460 - FakeNewsModel - INFO - Modelo logistic: Accuracy=0.9864, F1=0.9860
+2025-03-11 20:59:21,461 - FakeNewsModel - INFO - Entrenando modelo: Multinomial_NB
+2025-03-11 20:59:21,764 - FakeNewsModel - INFO - Modelo Multinomial_NB: Accuracy=0.9309, F1=0.9281
+2025-03-11 20:59:21,764 - FakeNewsModel - INFO - Entrenando modelo: gradient_boosting
+2025-03-11 21:02:11,143 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 21:02:11,144 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 21:02:11,144 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 21:02:12,481 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 21:02:12,484 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 21:02:12,646 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 21:02:12,646 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 21:02:12,993 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 21:02:13,004 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 21:02:15,093 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 21:02:15,094 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-11 21:02:17,846 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-11 21:02:18,002 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-11 21:02:18,007 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-11 21:02:31,734 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-11 21:02:31,738 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-11 21:02:31,739 - FakeNewsModel - INFO - Entrenando modelo: passive_aggressive
+2025-03-11 21:02:32,903 - FakeNewsModel - INFO - Modelo passive_aggressive: Accuracy=0.9925, F1=0.9923
+2025-03-11 21:02:32,904 - FakeNewsModel - INFO - Entrenando modelo: linear_scv
+2025-03-11 21:02:37,291 - FakeNewsModel - INFO - Modelo linear_scv: Accuracy=0.9932, F1=0.9930
+2025-03-11 21:02:37,291 - FakeNewsModel - INFO - Entrenando modelo: logistic
+2025-03-11 21:02:38,808 - FakeNewsModel - INFO - Modelo logistic: Accuracy=0.9864, F1=0.9860
+2025-03-11 21:02:38,809 - FakeNewsModel - INFO - Entrenando modelo: Multinomial_NB
+2025-03-11 21:02:39,156 - FakeNewsModel - INFO - Modelo Multinomial_NB: Accuracy=0.9309, F1=0.9281
+2025-03-11 21:02:39,156 - FakeNewsModel - INFO - Entrenando modelo: gradient_boosting
+2025-03-11 21:17:26,181 - FakeNewsModel - INFO - Modelo gradient_boosting: Accuracy=0.9946, F1=0.9944
+2025-03-11 21:17:26,235 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 21:17:26,247 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 21:17:26,752 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-11 21:17:26,753 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-11 21:17:26,753 - FakeNewsModel - INFO - Entrenando modelo: passive_aggressive
+2025-03-11 21:17:27,835 - FakeNewsModel - INFO - Modelo passive_aggressive: Accuracy=0.9925, F1=0.9923
+2025-03-11 21:17:27,836 - FakeNewsModel - INFO - Entrenando modelo: linear_scv
+2025-03-11 21:17:31,522 - FakeNewsModel - INFO - Modelo linear_scv: Accuracy=0.9932, F1=0.9930
+2025-03-11 21:17:31,522 - FakeNewsModel - INFO - Entrenando modelo: logistic
+2025-03-11 21:17:32,888 - FakeNewsModel - INFO - Modelo logistic: Accuracy=0.9864, F1=0.9860
+2025-03-11 21:17:32,889 - FakeNewsModel - INFO - Entrenando modelo: Multinomial_NB
+2025-03-11 21:17:33,173 - FakeNewsModel - INFO - Modelo Multinomial_NB: Accuracy=0.9309, F1=0.9281
+2025-03-11 21:17:33,173 - FakeNewsModel - INFO - Entrenando modelo: gradient_boosting
+2025-03-11 21:31:40,587 - FakeNewsModel - INFO - Modelo gradient_boosting: Accuracy=0.9946, F1=0.9944
+2025-03-11 21:31:40,620 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 21:31:40,626 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 21:31:41,123 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-11 21:31:41,124 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-11 22:12:43,534 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 22:12:43,534 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 22:12:43,535 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 22:12:45,042 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 22:12:45,044 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 22:12:45,173 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 22:12:45,173 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 22:12:45,763 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:12:45,800 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:12:48,035 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 22:12:48,037 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-11 22:12:50,566 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-11 22:12:50,686 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-11 22:12:50,688 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-11 22:12:59,961 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-11 22:12:59,964 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-11 22:12:59,964 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-11 22:13:05,932 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-11 22:13:05,932 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-11 22:15:11,034 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 22:15:11,035 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 22:15:11,035 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 22:15:12,399 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 22:15:12,402 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 22:15:12,503 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 22:15:12,503 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 22:15:12,885 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:15:12,899 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:15:15,011 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 22:15:15,011 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-11 22:15:17,450 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-11 22:15:17,535 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-11 22:15:17,537 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-11 22:15:26,717 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-11 22:15:26,719 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-11 22:15:26,720 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-11 22:15:32,103 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-11 22:15:32,104 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-11 22:15:54,912 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 22:15:54,913 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 22:15:54,914 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 22:15:56,330 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 22:15:56,332 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 22:15:56,433 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 22:15:56,434 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 22:15:56,778 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:15:56,792 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:15:58,893 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 22:15:58,894 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-11 22:16:01,399 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-11 22:16:01,488 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-11 22:16:01,490 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-11 22:16:10,936 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-11 22:16:10,938 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-11 22:16:10,938 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-11 22:16:16,385 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-11 22:16:16,385 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-11 22:16:21,357 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-11 22:16:21,358 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-11 22:16:31,977 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-11 22:16:31,977 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-11 22:16:32,632 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-11 22:16:32,633 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: gradient_boosting
+2025-03-11 22:17:22,063 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 22:17:22,064 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 22:17:22,064 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 22:17:23,403 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 22:17:23,405 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 22:17:23,503 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 22:17:23,504 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 22:17:23,877 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:17:23,890 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:17:25,959 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 22:17:25,960 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-11 22:17:28,354 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-11 22:17:28,442 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-11 22:17:28,445 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-11 22:17:37,662 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-11 22:17:37,665 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-11 22:17:37,665 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-11 22:17:42,994 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-11 22:17:42,994 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-11 22:17:47,237 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-11 22:17:47,237 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-11 22:17:57,479 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-11 22:17:57,480 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-11 22:17:58,148 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-11 22:17:58,195 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:17:58,202 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:17:58,760 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-11 22:17:58,761 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-11 22:18:49,210 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 22:18:49,211 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 22:18:49,212 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 22:18:50,575 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 22:18:50,577 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 22:19:22,666 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 22:19:22,667 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 22:19:22,669 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 22:19:24,098 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 22:19:24,100 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 22:19:24,223 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 22:19:24,226 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 22:19:24,470 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:19:24,503 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:19:27,921 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 22:19:27,922 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-11 22:19:30,412 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-11 22:19:30,511 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-11 22:19:30,513 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-11 22:19:45,191 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-11 22:19:45,193 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-11 22:19:45,195 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-11 22:19:54,412 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-11 22:19:54,412 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-11 22:19:59,590 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-11 22:19:59,590 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-11 22:20:10,539 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-11 22:20:10,539 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-11 22:20:11,296 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-11 22:20:11,408 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:20:11,420 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:20:12,128 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-11 22:20:12,129 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-11 22:28:11,381 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 22:28:11,382 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 22:28:11,382 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 22:28:12,810 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 22:28:12,813 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 22:28:12,907 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 22:28:12,909 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 22:28:13,238 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:28:13,250 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:28:15,441 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 22:28:15,442 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-11 22:28:17,917 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-11 22:28:18,005 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-11 22:28:18,007 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-11 22:28:27,224 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-11 22:28:27,232 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-11 22:28:27,232 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-11 22:28:32,480 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-11 22:28:32,481 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-11 22:28:37,534 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-11 22:28:37,535 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-11 22:28:47,679 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-11 22:28:47,679 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-11 22:28:48,314 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-11 22:28:48,349 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:28:48,359 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:28:48,848 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-11 22:28:48,849 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-11 22:53:38,786 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-11 22:53:38,787 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-11 22:53:38,788 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-11 22:53:40,507 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-11 22:53:40,510 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-11 22:53:40,650 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-11 22:53:40,651 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-11 22:53:41,115 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:53:41,167 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:53:44,946 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-11 22:53:44,954 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-11 22:53:47,787 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-11 22:53:47,892 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-11 22:53:47,894 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-11 22:54:03,371 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-11 22:54:03,374 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-11 22:54:03,375 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-11 22:54:16,711 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-11 22:54:16,712 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-11 22:54:21,871 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-11 22:54:21,871 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-11 22:54:33,023 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-11 22:54:33,023 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-11 22:54:33,809 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-11 22:54:33,920 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:54:33,934 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 22:54:34,572 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-11 22:54:34,573 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-12 10:34:10,309 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-12 10:34:10,311 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-12 10:34:10,311 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-12 10:34:11,785 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-12 10:34:11,785 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-12 10:34:11,947 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-12 10:34:11,947 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-12 10:34:12,401 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:34:12,447 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:34:15,980 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-12 10:34:15,988 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-12 10:34:18,569 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-12 10:34:18,681 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-12 10:34:18,681 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-12 10:34:33,379 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-12 10:34:33,382 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-12 10:34:33,382 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-12 10:34:42,679 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-12 10:34:42,680 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-12 10:34:49,117 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-12 10:34:49,119 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-12 10:35:03,679 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-12 10:35:03,681 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-12 10:35:04,834 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-12 10:35:05,036 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:35:05,077 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:35:06,418 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-12 10:35:06,420 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-12 10:37:20,487 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-12 10:37:20,488 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-12 10:37:20,488 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-12 10:37:21,903 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-12 10:37:21,919 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-12 10:37:22,028 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-12 10:37:22,028 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-12 10:37:22,367 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:37:22,379 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:37:24,513 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-12 10:37:24,514 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-12 10:37:27,512 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-12 10:37:27,607 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-12 10:37:27,609 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-12 10:37:38,468 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-12 10:37:38,471 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-12 10:37:38,472 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-12 10:37:45,049 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-12 10:37:45,050 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-12 10:37:50,319 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-12 10:37:50,319 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-12 10:38:04,541 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-12 10:38:04,542 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-12 10:38:05,324 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-12 10:38:05,365 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:38:05,366 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:38:05,931 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-12 10:38:05,931 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-12 10:38:05,933 - FakeNewsModel - INFO - Mejor modelo seleccionado: PassiveAggressiveClassifier(C=0.1, max_iter=50, random_state=42)
+2025-03-12 10:43:05,621 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-12 10:43:05,622 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-12 10:43:05,623 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-12 10:43:07,255 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-12 10:43:07,258 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-12 10:43:07,399 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-12 10:43:07,399 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-12 10:43:07,664 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:43:07,697 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:43:11,503 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-12 10:43:11,504 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-12 10:43:14,301 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-12 10:43:14,406 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-12 10:43:14,409 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-12 10:43:30,515 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-12 10:43:30,517 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-12 10:43:30,517 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-12 10:43:39,555 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-12 10:43:39,555 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-12 10:43:44,686 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-12 10:43:44,688 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-12 10:43:56,749 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-12 10:43:56,750 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-12 10:43:57,636 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-12 10:43:57,726 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:43:57,739 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:43:58,387 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-12 10:43:58,389 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-12 10:51:04,287 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-12 10:51:04,288 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-12 10:51:04,288 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-12 10:51:05,559 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-12 10:51:05,563 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-12 10:51:05,658 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-12 10:51:05,658 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-12 10:51:05,998 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:51:06,007 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:51:08,071 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-12 10:51:08,072 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-12 10:51:10,529 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-12 10:51:10,622 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-12 10:51:10,623 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-12 10:51:19,327 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-12 10:51:19,330 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-12 10:51:19,330 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-12 10:51:24,471 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-12 10:51:24,471 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-12 10:51:29,428 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-12 10:51:29,429 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-12 10:51:39,796 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-12 10:51:39,797 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-12 10:51:40,416 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-12 10:51:40,451 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:51:40,451 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:51:40,927 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-12 10:51:40,928 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-12 10:53:04,551 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-12 10:53:04,551 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-12 10:53:04,552 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-12 10:53:05,856 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-12 10:53:05,859 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-12 10:53:05,959 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-12 10:53:05,959 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-12 10:53:06,274 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:53:06,280 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:53:08,341 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-12 10:53:08,342 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-12 10:53:10,667 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-12 10:53:10,745 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-12 10:53:10,747 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-12 10:53:19,400 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-12 10:53:19,402 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-12 10:53:19,403 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-12 10:53:24,330 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-12 10:53:24,330 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-12 10:53:28,952 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-12 10:53:28,952 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-12 10:53:38,824 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-12 10:53:38,824 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-12 10:53:39,433 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-12 10:53:39,476 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:53:39,482 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:53:39,933 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-12 10:53:39,933 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-12 10:53:39,933 - FakeNewsModel - INFO - Mejor modelo seleccionado: passive_aggressive
+2025-03-12 10:56:08,686 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-12 10:56:08,686 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-12 10:56:08,686 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-12 10:56:10,096 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-12 10:56:10,099 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-12 10:56:10,224 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-12 10:56:10,224 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-12 10:56:10,462 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:56:10,488 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:56:14,301 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-12 10:56:14,302 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-12 10:56:16,685 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-12 10:56:16,781 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-12 10:56:16,781 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-12 10:56:30,867 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-12 10:56:30,870 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-12 10:56:30,872 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-12 10:56:39,308 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-12 10:56:39,308 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-12 10:56:44,327 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-12 10:56:44,327 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-12 10:56:54,722 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-12 10:56:54,722 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-12 10:56:55,459 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-12 10:56:55,529 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:56:55,548 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 10:56:56,151 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-12 10:56:56,152 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-12 10:56:56,153 - FakeNewsModel - INFO - Mejor modelo seleccionado: passive_aggressive
+2025-03-12 11:03:39,907 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-12 11:03:39,908 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-12 11:03:39,909 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-12 11:03:41,196 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-12 11:03:41,198 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-12 11:03:41,304 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-12 11:03:41,305 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-12 11:03:41,627 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:03:41,627 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:03:43,581 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-12 11:03:43,581 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-12 11:03:45,857 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-12 11:03:45,944 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-12 11:03:45,945 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-12 11:03:54,568 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-12 11:03:54,568 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-12 11:03:54,568 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-12 11:03:59,426 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-12 11:03:59,426 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-12 11:04:03,596 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-12 11:04:03,596 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-12 11:04:13,164 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-12 11:04:13,164 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-12 11:04:13,811 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-12 11:04:13,844 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:04:13,846 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:04:14,310 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-12 11:04:14,310 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-12 11:04:14,310 - FakeNewsModel - INFO - Mejor modelo seleccionado: passive_aggressive
+2025-03-12 11:04:22,682 - FakeNewsModel - INFO - Mejores hiperparámetros encontrados: {'C': 0.1, 'max_iter': 50}
+2025-03-12 11:04:22,682 - FakeNewsModel - INFO - Modelo optimizado: Accuracy=0.9933, F1=0.9931
+2025-03-12 11:04:22,697 - FakeNewsModel - INFO - Evaluando modelo final en conjunto de prueba...
+2025-03-12 11:04:22,736 - FakeNewsModel - INFO - Rendimiento final: Accuracy=0.9926, F1=0.9924
+2025-03-12 11:04:23,164 - FakeNewsModel - INFO - Guardando modelo final...
+2025-03-12 11:04:23,294 - FakeNewsModel - INFO - Modelo guardado en output_fakenews\models\fakenews_model_pipeline.pkl
+2025-03-12 11:04:23,294 - FakeNewsModel - INFO - Pipeline completado.
+2025-03-12 11:05:16,142 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-12 11:05:16,142 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-12 11:05:16,143 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-12 11:05:17,418 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-12 11:05:17,421 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-12 11:05:17,513 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-12 11:05:17,513 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-12 11:05:17,826 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:05:17,839 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:05:19,788 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-12 11:05:19,788 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-12 11:05:22,089 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-12 11:05:22,170 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-12 11:05:22,170 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-12 11:05:30,733 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-12 11:05:30,738 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-12 11:05:30,738 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-12 11:05:35,616 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-12 11:05:35,616 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-12 11:05:39,710 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-12 11:05:39,710 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-12 11:05:49,437 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-12 11:05:49,437 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-12 11:05:50,050 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-12 11:05:50,083 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:05:50,088 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:05:50,543 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-12 11:05:50,544 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-12 11:05:50,544 - FakeNewsModel - INFO - Mejor modelo seleccionado: passive_aggressive
+2025-03-12 11:05:59,133 - FakeNewsModel - INFO - Mejores hiperparámetros encontrados: {'C': 0.1, 'max_iter': 50}
+2025-03-12 11:05:59,145 - FakeNewsModel - INFO - Modelo optimizado: Accuracy=0.9933, F1=0.9931
+2025-03-12 11:05:59,147 - FakeNewsModel - INFO - Evaluando modelo final en conjunto de prueba...
+2025-03-12 11:05:59,181 - FakeNewsModel - INFO - Rendimiento final: Accuracy=0.9926, F1=0.9924
+2025-03-12 11:05:59,623 - FakeNewsModel - INFO - Guardando modelo final...
+2025-03-12 11:05:59,773 - FakeNewsModel - INFO - Modelo guardado en output_fakenews\models\fakenews_model_pipeline.pkl
+2025-03-12 11:05:59,773 - FakeNewsModel - INFO - Pipeline completado.
+2025-03-12 11:06:00,493 - FakeNewsModel - INFO - Predicción realizada: Fake
+2025-03-12 11:11:56,084 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-12 11:11:56,085 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-12 11:11:56,085 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-12 11:11:57,547 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-12 11:11:57,547 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-12 11:11:57,658 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-12 11:11:57,659 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-12 11:11:58,160 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:11:58,169 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:12:00,252 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-12 11:12:00,260 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-12 11:12:02,882 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-12 11:12:02,974 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-12 11:12:02,976 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-12 11:12:11,824 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-12 11:12:11,842 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-12 11:12:11,842 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-12 11:12:17,398 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-12 11:12:17,398 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-12 11:12:22,343 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-12 11:12:22,343 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-12 11:12:33,543 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-12 11:12:33,543 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-12 11:12:34,311 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-12 11:12:34,353 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:12:34,362 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:12:34,816 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-12 11:12:34,817 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-12 11:12:34,817 - FakeNewsModel - INFO - Mejor modelo seleccionado: passive_aggressive
+2025-03-12 11:12:43,452 - FakeNewsModel - INFO - Mejores hiperparámetros encontrados: {'C': 0.1, 'max_iter': 50}
+2025-03-12 11:12:43,462 - FakeNewsModel - INFO - Modelo optimizado: Accuracy=0.9933, F1=0.9931
+2025-03-12 11:12:43,466 - FakeNewsModel - INFO - Evaluando modelo final en conjunto de prueba...
+2025-03-12 11:12:43,521 - FakeNewsModel - INFO - Rendimiento final: Accuracy=0.9926, F1=0.9924
+2025-03-12 11:12:43,993 - FakeNewsModel - INFO - Guardando modelo final...
+2025-03-12 11:12:44,143 - FakeNewsModel - INFO - Modelo guardado en output_fakenews\models\fakenews_model_pipeline.pkl
+2025-03-12 11:12:44,144 - FakeNewsModel - INFO - Pipeline completado.
+2025-03-12 11:12:44,872 - FakeNewsModel - INFO - Predicción realizada: Fake
+2025-03-12 11:13:48,599 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-12 11:13:48,599 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-12 11:13:48,599 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-12 11:13:49,955 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-12 11:13:49,958 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-12 11:13:50,058 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-12 11:13:50,059 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-12 11:13:50,415 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:13:50,429 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:13:52,440 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-12 11:13:52,440 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-12 11:13:55,015 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-12 11:13:55,093 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-12 11:13:55,094 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-12 11:14:03,964 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-12 11:14:03,967 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-12 11:14:03,967 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-12 11:14:09,090 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-12 11:14:09,090 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-12 11:14:14,246 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-12 11:14:14,246 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-12 11:14:24,405 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-12 11:14:24,405 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-12 11:14:25,026 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-12 11:14:25,058 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:14:25,064 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:14:25,507 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-12 11:14:25,507 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-12 11:14:25,507 - FakeNewsModel - INFO - Mejor modelo seleccionado: passive_aggressive
+2025-03-12 11:14:32,662 - FakeNewsModel - INFO - Mejores hiperparámetros encontrados: {'C': 0.1, 'max_iter': 50}
+2025-03-12 11:14:32,662 - FakeNewsModel - INFO - Modelo optimizado: Accuracy=0.9933, F1=0.9931
+2025-03-12 11:14:32,677 - FakeNewsModel - INFO - Evaluando modelo final en conjunto de prueba...
+2025-03-12 11:14:32,712 - FakeNewsModel - INFO - Rendimiento final: Accuracy=0.9926, F1=0.9924
+2025-03-12 11:14:33,136 - FakeNewsModel - INFO - Guardando modelo final...
+2025-03-12 11:14:33,287 - FakeNewsModel - INFO - Modelo guardado en output_fakenews\models\fakenews_model_pipeline.pkl
+2025-03-12 11:14:33,287 - FakeNewsModel - INFO - Pipeline completado.
+2025-03-12 11:14:33,954 - FakeNewsModel - INFO - Predicción realizada: Fake
+2025-03-12 11:14:54,330 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-12 11:14:54,330 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-12 11:14:54,330 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-12 11:14:55,656 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-12 11:14:55,658 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-12 11:14:55,762 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-12 11:14:55,762 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-12 11:14:56,083 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:14:56,095 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:14:58,079 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-12 11:14:58,080 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-12 11:15:00,400 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-12 11:15:00,488 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-12 11:15:00,488 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-12 11:15:09,397 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-12 11:15:09,400 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-12 11:15:09,400 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-12 11:15:14,666 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-12 11:15:14,667 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-12 11:15:19,154 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-12 11:15:19,154 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-12 11:15:31,547 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-12 11:15:31,548 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-12 11:15:32,461 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-12 11:15:32,498 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:15:32,506 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:15:32,981 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-12 11:15:32,982 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-12 11:15:32,982 - FakeNewsModel - INFO - Mejor modelo seleccionado: passive_aggressive
+2025-03-12 11:15:36,774 - FakeNewsModel - INFO - Mejores hiperparámetros encontrados: {'C': 0.1, 'max_iter': 50}
+2025-03-12 11:15:36,789 - FakeNewsModel - INFO - Modelo optimizado: Accuracy=0.9933, F1=0.9931
+2025-03-12 11:15:36,790 - FakeNewsModel - INFO - Evaluando modelo final en conjunto de prueba...
+2025-03-12 11:15:36,827 - FakeNewsModel - INFO - Rendimiento final: Accuracy=0.9926, F1=0.9924
+2025-03-12 11:15:37,257 - FakeNewsModel - INFO - Guardando modelo final...
+2025-03-12 11:15:37,407 - FakeNewsModel - INFO - Modelo guardado en output_fakenews\models\fakenews_model_pipeline.pkl
+2025-03-12 11:15:37,407 - FakeNewsModel - INFO - Pipeline completado.
+2025-03-12 11:15:38,059 - FakeNewsModel - INFO - Predicción realizada: Fake
+2025-03-12 11:20:16,611 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-12 11:20:16,612 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-12 11:20:16,612 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-12 11:20:17,919 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-12 11:20:17,935 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-12 11:20:18,036 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-12 11:20:18,036 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-12 11:20:18,364 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:20:18,370 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:20:20,369 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-12 11:20:20,370 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-12 11:20:22,674 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-12 11:20:22,763 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-12 11:20:22,766 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-12 11:20:31,450 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-12 11:20:31,452 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-12 11:20:31,453 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-12 11:20:36,872 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-12 11:20:36,873 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-12 11:20:42,179 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-12 11:20:42,181 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-12 11:20:52,082 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-12 11:20:52,082 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-12 11:20:52,719 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-12 11:20:52,753 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:20:52,759 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:20:53,214 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-12 11:20:53,215 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-12 11:20:53,215 - FakeNewsModel - INFO - Mejor modelo seleccionado: passive_aggressive
+2025-03-12 11:21:01,994 - FakeNewsModel - INFO - Mejores hiperparámetros encontrados: {'C': 0.1, 'max_iter': 50}
+2025-03-12 11:21:02,004 - FakeNewsModel - INFO - Modelo optimizado: Accuracy=0.9933, F1=0.9931
+2025-03-12 11:21:02,007 - FakeNewsModel - INFO - Evaluando modelo final en conjunto de prueba...
+2025-03-12 11:21:02,071 - FakeNewsModel - INFO - Rendimiento final: Accuracy=0.9926, F1=0.9924
+2025-03-12 11:21:02,519 - FakeNewsModel - INFO - Guardando modelo final...
+2025-03-12 11:21:02,663 - FakeNewsModel - INFO - Modelo guardado en output_fakenews\models\fakenews_model_pipeline.pkl
+2025-03-12 11:21:02,663 - FakeNewsModel - INFO - Pipeline completado.
+2025-03-12 11:21:02,664 - FakeNewsModel - INFO - Analizando errores del modelo...
+2025-03-12 11:21:02,677 - FakeNewsModel - INFO - Análisis de errores completado.
+2025-03-12 11:21:02,677 - FakeNewsModel - INFO - Generando informe de interpretabilidad...
+2025-03-12 11:21:03,755 - FakeNewsModel - INFO - Informe de interpretabilidad generado.
+2025-03-12 11:21:04,421 - FakeNewsModel - INFO - Predicción realizada: Fake
+2025-03-12 11:23:33,146 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-12 11:23:33,146 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-12 11:23:33,146 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-12 11:23:34,446 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-12 11:23:34,448 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-12 11:23:34,551 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-12 11:23:34,551 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-12 11:23:34,874 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:23:34,885 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 11:23:36,910 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-12 11:23:36,912 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-12 11:23:39,533 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-12 11:23:39,632 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-12 11:23:39,632 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-12 11:23:48,398 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-12 11:23:48,401 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-12 11:23:48,402 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-12 11:23:53,457 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-12 11:23:53,457 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-12 11:23:58,222 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-12 11:23:58,222 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-12 11:24:08,163 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-12 11:24:08,165 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-12 11:24:08,774 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-12 11:24:08,774 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: gradient_boosting
+2025-03-12 12:29:43,428 - FakeNewsModel - INFO - Modelo gradient_boosting: Best params={'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200}, Accuracy=0.9962, F1=0.9960
+2025-03-12 12:29:43,572 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 12:29:43,587 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 12:29:44,329 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-12 12:29:44,329 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-12 12:29:44,331 - FakeNewsModel - INFO - Mejor modelo seleccionado: gradient_boosting
+2025-03-12 14:56:42,915 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-12 14:56:42,915 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-12 14:56:42,915 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-12 14:56:44,376 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-12 14:56:44,379 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-12 14:56:44,509 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-12 14:56:44,510 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-12 14:56:44,983 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 14:56:45,025 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 14:56:48,588 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-12 14:56:48,589 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-12 14:56:51,255 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-12 14:56:51,352 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-12 14:56:51,354 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-12 14:57:06,206 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-12 14:57:06,208 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-12 14:57:06,209 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-12 14:57:16,183 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-12 14:57:16,184 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-12 14:57:21,850 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-12 14:57:21,851 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-12 14:57:32,745 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-12 14:57:32,745 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-12 14:57:33,456 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-12 14:57:33,471 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: gradient_boosting
+2025-03-12 14:58:29,595 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-12 14:58:29,595 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-12 14:58:29,595 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-12 14:58:31,013 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-12 14:58:31,013 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-12 14:58:31,141 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-12 14:58:31,142 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-12 14:58:31,430 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 14:58:31,462 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 14:58:34,926 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-12 14:58:34,944 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-12 14:58:37,636 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-12 14:58:37,730 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-12 14:58:37,730 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-12 14:58:52,857 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-12 14:58:52,860 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-12 14:58:52,861 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-12 14:59:01,685 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-12 14:59:01,685 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-12 14:59:06,812 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-12 14:59:06,812 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-12 14:59:18,245 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-12 14:59:18,245 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-12 14:59:18,973 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-12 14:59:19,070 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 14:59:19,085 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 14:59:19,709 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-12 14:59:19,709 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-12 14:59:19,711 - FakeNewsModel - INFO - Mejor modelo seleccionado: passive_aggressive
+2025-03-12 14:59:28,849 - FakeNewsModel - INFO - Mejores hiperparámetros encontrados: {'C': 0.1, 'max_iter': 50}
+2025-03-12 15:06:23,638 - FakeNewsModel - INFO - Inicialización completada.
+2025-03-12 15:06:23,638 - FakeNewsModel - INFO - Iniciando pipeline completo...
+2025-03-12 15:06:23,638 - FakeNewsModel - INFO - Cargando datos desde datasets\fakenews\Fake.csv y datasets\fakenews\Fake.csv
+2025-03-12 15:06:24,958 - FakeNewsModel - INFO - Datos cargados exitosamente. Shape: (44898, 5)
+2025-03-12 15:06:24,961 - FakeNewsModel - INFO - Iniciando exploración de datos...
+2025-03-12 15:06:25,064 - FakeNewsModel - INFO - Exploración básica completada.
+2025-03-12 15:06:25,064 - FakeNewsModel - INFO - Generando visualizaciones...
+2025-03-12 15:06:25,393 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 15:06:25,405 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 15:06:27,457 - FakeNewsModel - INFO - Visualizaciones generadas y guardadas en el directorio de figuras.
+2025-03-12 15:06:27,457 - FakeNewsModel - INFO - Cargando datos preprocesados desde caché...
+2025-03-12 15:06:29,776 - FakeNewsModel - INFO - Dividiendo datos en conjuntos de entrenamiento y prueba...
+2025-03-12 15:06:29,860 - FakeNewsModel - INFO - Datos divididos. Conjunto de entrenamiento: (26508,) 
+Conjunto de validación: (8836,)
+Conjunto de prueba: (8837,)
+2025-03-12 15:06:29,864 - FakeNewsModel - INFO - Preprocesando datos...
+2025-03-12 15:06:38,918 - FakeNewsModel - INFO - Datos preprocesados. Características: 5000
+2025-03-12 15:06:38,920 - FakeNewsModel - INFO - Entrenando y evaluando modelos...
+2025-03-12 15:06:38,921 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: passive_aggressive
+2025-03-12 15:06:43,875 - FakeNewsModel - INFO - Modelo passive_aggressive: Best params={'C': 0.1}, Accuracy=0.9933, F1=0.9931
+2025-03-12 15:06:43,875 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: linear_scv
+2025-03-12 15:06:48,913 - FakeNewsModel - INFO - Modelo linear_scv: Best params={'C': 1.0}, Accuracy=0.9932, F1=0.9930
+2025-03-12 15:06:48,913 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: logistic
+2025-03-12 15:06:58,909 - FakeNewsModel - INFO - Modelo logistic: Best params={'C': 10.0, 'solver': 'liblinear'}, Accuracy=0.9917, F1=0.9915
+2025-03-12 15:06:58,909 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: multinomial_nb
+2025-03-12 15:06:59,537 - FakeNewsModel - INFO - Modelo multinomial_nb: Best params={'alpha': 0.01}, Accuracy=0.9336, F1=0.9308
+2025-03-12 15:06:59,537 - FakeNewsModel - INFO - Entrenando modelo con GridSearch: gradient_boosting
+2025-03-12 16:21:54,627 - FakeNewsModel - INFO - Modelo gradient_boosting: Best params={'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 200}, Accuracy=0.9962, F1=0.9960
+2025-03-12 16:21:54,732 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 16:21:54,758 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-12 16:21:55,314 - FakeNewsModel - INFO - Evaluación de modelos completada.
+2025-03-12 16:21:55,314 - FakeNewsModel - INFO - Ajustando hiperparámetros del mejor modelo...
+2025-03-12 16:21:55,314 - FakeNewsModel - INFO - Mejor modelo seleccionado: gradient_boosting
+2025-03-12 16:21:55,314 - FakeNewsModel - INFO - Evaluando modelo final en conjunto de prueba...
+2025-03-12 16:21:55,423 - FakeNewsModel - INFO - Rendimiento final: Accuracy=0.9973, F1=0.9972
+2025-03-12 16:21:56,003 - FakeNewsModel - INFO - Guardando modelo final...
+2025-03-12 16:21:56,204 - FakeNewsModel - INFO - Modelo guardado en output_fakenews\models\fakenews_model_pipeline.pkl
+2025-03-12 16:21:56,204 - FakeNewsModel - INFO - Pipeline completado.
+2025-03-12 16:21:57,116 - FakeNewsModel - INFO - Predicción realizada: Fake
